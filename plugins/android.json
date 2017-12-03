@@ -1,0 +1,48 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "org.apache.chatconoceme.chat"
+    },
+    "com.applozic.phonegap": {
+      "PACKAGE_NAME": "org.apache.chatconoceme.chat"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "org.apache.chatconoceme.chat"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "org.apache.chatconoceme.chat"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "org.apache.chatconoceme.chat"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "org.apache.chatconoceme.chat"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "org.apache.chatconoceme.chat"
+    },
+    "cordova-plugin-media": {
+      "PACKAGE_NAME": "org.apache.chatconoceme.chat"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "org.apache.chatconoceme.chat"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "org.apache.chatconoceme.chat"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "org.apache.chatconoceme.chat"
+    },
+    "cordova-opentok-android-permissions": {
+      "PACKAGE_NAME": "org.apache.chatconoceme.chat"
+    }
+  },
+  "dependent_plugins": {}
+}
